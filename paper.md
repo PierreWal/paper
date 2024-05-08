@@ -1,8 +1,8 @@
 ## My exciting new paper
 
 # Author 
-Pierre Walthery
-John Smith
+Pierre Walthery U of Mancheste
+John Smith, U o Liege
 ssss
 
 ## The subtitle
