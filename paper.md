@@ -1,8 +1,8 @@
 ## My exciting new paper
 
 # Author 
-Pierre Walthery
-John Smith
+John Smith, UoB
+Pierre Walthery, UoM
 ssss
 
 ## The subtitle
